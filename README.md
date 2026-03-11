@@ -42,7 +42,7 @@ SuperAdmin has full system control.
 - View system statistics
 - Access all system functions
 
-![SuperAdmin Dashboard](screenshots/Superadmin/superadmin_dashboard.png)
+![SuperAdmin Dashboard](screenshots/SuperAdmin/superadmin_dashboard.png)
 
 # Technologies Used
 

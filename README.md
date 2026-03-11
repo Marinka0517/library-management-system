@@ -17,7 +17,7 @@ The system supports multiple user roles with different permissions.
 - View fine records
 - Edit personal information
 
-![Reader Dashboard](screenshots/reader/reader_dashboard.png)
+![Reader Dashboard](screenshots/Reader/reader_dashboard.png)
 
 ## Librarians
 - Add new books
@@ -26,7 +26,7 @@ The system supports multiple user roles with different permissions.
 - Borrow books for readers
 - Process book returns
 
-![Librarian Dashboard](screenshots/librarian/librarian_dashboard.png)
+![Librarian Dashboard](screenshots/Librarian/librarian_dashboard.png)
 
 ## Admins
 - Search books
@@ -34,7 +34,7 @@ The system supports multiple user roles with different permissions.
 - Manage user accounts
 - Perform system maintenance
 
-![Admin Dashboard](screenshots/admin/admin_dashboard.png)
+![Admin Dashboard](screenshots/Admin/admin_dashboard.png)
 
 ## SuperAdmin 
 SuperAdmin has full system control.
@@ -42,7 +42,7 @@ SuperAdmin has full system control.
 - View system statistics
 - Access all system functions
 
-![SuperAdmin Dashboard](screenshots/superadmin/superadmin_dashboard.png)
+![SuperAdmin Dashboard](screenshots/Superadmin/superadmin_dashboard.png)
 
 # Technologies Used
 

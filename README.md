@@ -10,7 +10,6 @@ The goal was to **design a complete system including database design, role-based
 
 The system supports multiple user roles with different permissions.
 
-### Reader
 Readers can:
 - Search books
 - Borrow books
@@ -18,7 +17,6 @@ Readers can:
 - View fine records
 - Edit personal information
 
-### Librarian
 Librarians can:
 - Add new books
 - Edit book information
@@ -26,14 +24,12 @@ Librarians can:
 - Borrow books for readers
 - Process book returns
 
-### Admin
 Admins can:
 - Search books
 - Maintain book records
 - Manage user accounts
 - Perform system maintenance
 
-### SuperAdmin
 SuperAdmin has full system control and can:
 - Manage administrator accounts
 - View system statistics
